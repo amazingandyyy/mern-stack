@@ -41,7 +41,7 @@ client/
 
 # Usage (run fullstack app on your machine)
 
-## Prerequirements
+## Prerequisites
 - [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
 - [Node](https://nodejs.org/en/download/) ^10.0.0
 - [npm](https://nodejs.org/en/download/package-manager/)
@@ -51,7 +51,7 @@ notice, you need client and server runs concurrently in different terminal sessi
 ## Client-side usage(PORT: 3000)
 ```terminal
 $ cd client   // go to client folder
-$ npm i       // npm install pacakges
+$ npm i       // npm install packages
 $ npm run dev // run it locally
 
 // deployment for client app
@@ -76,7 +76,7 @@ $ echo "JWT_SECRET=YOUR_JWT_SECRET" >> ./server/src/.env
 
 ```terminal
 $ cd server   // go to server folder
-$ npm i       // npm install pacakges
+$ npm i       // npm install packages
 $ npm run dev // run it locally
 $ npm run build // this will build the server code to es5 js codes and generate a dist file
 ```

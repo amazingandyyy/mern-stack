@@ -6,7 +6,7 @@ React/Redux
 ## Client-side usage(PORT: 3000)
 ```terminal
 $ cd client   // go to client folder
-$ npm i       // npm install pacakges
+$ npm i       // npm install packages
 $ npm run dev // run it locally
 
 // deployment for client app
@@ -26,7 +26,7 @@ $ npm run start // this will run the files in docs, this behavior is exactly the
 | mongoose: ^4.7.4
 | morgan: ^1.7.0
 
-# Some screemshots
+# Some screenshots
 
 User visit public and Home page
 ![User visit public and Home page](http://i.imgur.com/ORCGHHY.png)
